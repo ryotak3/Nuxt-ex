@@ -40,6 +40,7 @@ export default {
   */
   modules: [
     '@nuxtjs/pwa',
+    '@nuxtjs/vuetify'
   ],
 
   /*
